@@ -1,0 +1,869 @@
+<svg width="2532px" height="1352px" viewBox="0 0 2532 1352"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 2532px; height: 1352px;">
+
+    <!-- Removed all clippaths -->
+
+    <!-- LAYER 1: 
+        - Included id="" class="area excluded" title="" in the first <g tranform line ...> to disable the empty area tooltip
+        - No change in the codes, except separating the blue boxes into two: fill (layer 2) and borders/texts/triangles (layer 3)
+        -->
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" id="" class="area excluded" title="">
+        <g transform="matrix(1, 0, 0, 1, -109, -59)">
+            <g transform="matrix(1, 0, 0, 1, 780, 585)">
+                <path d="M 5,0 L 1370,0 C 1372.238576250846,0 1375,2.761423749153968 1375,5 L 1375,470 C 1375,472.23857625084605 1372.238576250846,475 1370,475 L 5,475 C 2.761423749153968,475 0,472.23857625084605 0,470 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 1370,0 C 1372.238576250846,0 1375,2.761423749153968 1375,5 L 1375,470 C 1375,472.23857625084605 1372.238576250846,475 1370,475 L 5,475 C 2.761423749153968,475 0,472.23857625084605 0,470 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4" object-name="Supply Chain" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="681.2385762508461" y="17.9356201171875" style="font: normal bold 21px &quot;Roboto&quot;" text-anchor="middle" fill="#0000CC" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">SUPPLY CHAIN</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 165, 585)">
+                <path d="M 5,0 L 560,0 C 562.238576250846,0 565,2.761423749153968 565,5 L 565,470 C 565,472.23857625084605 562.238576250846,475 560,475 L 5,475 C 2.761423749153968,475 0,472.23857625084605 0,470 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 560,0 C 562.238576250846,0 565,2.761423749153968 565,5 L 565,470 C 565,472.23857625084605 562.238576250846,475 560,475 L 5,475 C 2.761423749153968,475 0,472.23857625084605 0,470 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="1" object-name="Case for Action" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="276.238576250846" y="12.8111572265625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Case for Action</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 240, 60)">
+                <path d="M 5,0 L 230,0 C 232.23857625084602,0 235,2.761423749153968 235,5 L 235,50 C 235,52.23857625084603 232.23857625084602,55 230,55 L 5,55 C 2.761423749153968,55 0,52.23857625084603 0,50 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFCD" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 230,0 C 232.23857625084602,0 235,2.761423749153968 235,5 L 235,50 C 235,52.23857625084603 232.23857625084602,55 230,55 L 5,55 C 2.761423749153968,55 0,52.23857625084603 0,50 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="111.23857625084602" y="12.768310546875" style="font: normal normal 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">CMI Detailed Theory of Change</text>
+                        <text x="111.23857625084602" y="29.792724609375" style="font: normal normal 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">April 2021</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2190, 615)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,200 C 145,202.23857625084602 142.23857625084602,205 140,205 L 5,205 C 2.761423749153968,205 0,202.23857625084602 0,200 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,200 C 145,202.23857625084602 142.23857625084602,205 140,205 L 5,205 C 2.761423749153968,205 0,202.23857625084602 0,200 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="12.8111572265625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#9900FF" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Sustainable</text>
+                        <text x="66.23857625084602" y="29.8927001953125" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#9900FF" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Fishing Practices</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 810, 75)">
+                <path d="M 5,0 L 1310,0 C 1312.238576250846,0 1315,2.761423749153968 1315,5 L 1315,440 C 1315,442.23857625084605 1312.238576250846,445 1310,445 L 5,445 C 2.761423749153968,445 0,442.23857625084605 0,440 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 1310,0 C 1312.238576250846,0 1315,2.761423749153968 1315,5 L 1315,440 C 1315,442.23857625084605 1312.238576250846,445 1310,445 L 5,445 C 2.761423749153968,445 0,442.23857625084605 0,440 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="3" object-name="Financial Markets" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="651.2385762508461" y="17.9356201171875" style="font: normal bold 21px &quot;Roboto&quot;" text-anchor="middle" fill="#007F00" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">FINANCIAL MARKETS</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 885, 1110)">
+                <path d="M 5,0 L 1160,0 C 1162.238576250846,0 1165,2.761423749153968 1165,5 L 1165,290 C 1165,292.23857625084605 1162.238576250846,295 1160,295 L 5,295 C 2.761423749153968,295 0,292.23857625084605 0,290 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 1160,0 C 1162.238576250846,0 1165,2.761423749153968 1165,5 L 1165,290 C 1165,292.23857625084605 1162.238576250846,295 1160,295 L 5,295 C 2.761423749153968,295 0,292.23857625084605 0,290 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="2" object-name="Enabling Conditions" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="576.2385762508461" y="17.9356201171875" style="font: normal bold 21px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Enabling Conditions</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2190, 840)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,200 C 145,202.23857625084602 142.23857625084602,205 140,205 L 5,205 C 2.761423749153968,205 0,202.23857625084602 0,200 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,200 C 145,202.23857625084602 142.23857625084602,205 140,205 L 5,205 C 2.761423749153968,205 0,202.23857625084602 0,200 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="12.8111572265625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#9900FF" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Sustainable</text>
+                        <text x="66.23857625084602" y="29.8927001953125" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#9900FF" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Farming Practices</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2400, 720)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,230 C 145,232.23857625084602 142.23857625084602,235 140,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,230 C 145,232.23857625084602 142.23857625084602,235 140,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="12.8111572265625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Globally Traded</text>
+                        <text x="66.23857625084602" y="29.8927001953125" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Agriculture &amp;</text>
+                        <text x="66.23857625084602" y="46.9742431640625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Seafood</text>
+                        <text x="66.23857625084602" y="64.0557861328125" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Production</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 840, 210)">
+                <path d="M 5,0 L 110,0 C 112.23857625084604,0 115,2.761423749153968 115,5 L 115,200 C 115,202.23857625084602 112.23857625084604,205 110,205 L 5,205 C 2.761423749153968,205 0,202.23857625084602 0,200 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 110,0 C 112.23857625084604,0 115,2.761423749153968 115,5 L 115,200 C 115,202.23857625084602 112.23857625084604,205 110,205 L 5,205 C 2.761423749153968,205 0,202.23857625084602 0,200 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="3.1" object-name="Financial Institutions Equipped to Understand Risks" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="51.23857625084604" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">FIs Equipped to</text>
+                        <text x="51.23857625084604" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Understand Risks</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 990, 195)">
+                <path d="M 5,0 L 110,0 C 112.23857625084604,0 115,2.761423749153968 115,5 L 115,230 C 115,232.23857625084602 112.23857625084604,235 110,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 110,0 C 112.23857625084604,0 115,2.761423749153968 115,5 L 115,230 C 115,232.23857625084602 112.23857625084604,235 110,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="3.2" object-name="Financial Institutions Make Commitments" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="51.23857625084604" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">FIs Make</text>
+                        <text x="51.23857625084604" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Commitments</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1140, 195)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,230 C 145,232.23857625084602 142.23857625084602,235 140,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,230 C 145,232.23857625084602 142.23857625084602,235 140,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="3.3" object-name="Risk Management Process Aligned" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Risk Management</text>
+                        <text x="66.23857625084602" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Process Aligned</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1305, 120)">
+                <path d="M 5,0 L 410,0 C 412.23857625084605,0 415,2.761423749153968 415,5 L 415,380 C 415,382.23857625084605 412.23857625084605,385 410,385 L 5,385 C 2.761423749153968,385 0,382.23857625084605 0,380 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 410,0 C 412.23857625084605,0 415,2.761423749153968 415,5 L 415,380 C 415,382.23857625084605 412.23857625084605,385 410,385 L 5,385 C 2.761423749153968,385 0,382.23857625084605 0,380 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="3.4" object-name="Capital and Engagement" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="201.23857625084605" y="12.8111572265625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Capital &amp;
+                        Engagement</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1320, 165)">
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,260 C 175,262.23857625084605 172.23857625084602,265 170,265 L 5,265 C 2.761423749153968,265 0,262.23857625084605 0,260 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,260 C 175,262.23857625084605 172.23857625084602,265 170,265 L 5,265 C 2.761423749153968,265 0,262.23857625084605 0,260 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="81.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Business Shifts</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1530, 165)">
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,320 C 175,322.23857625084605 172.23857625084602,325 170,325 L 5,325 C 2.761423749153968,325 0,322.23857625084605 0,320 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,320 C 175,322.23857625084605 172.23857625084602,325 170,325 L 5,325 C 2.761423749153968,325 0,322.23857625084605 0,320 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="81.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">New Business Models</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1755, 210)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,200 C 145,202.23857625084602 142.23857625084602,205 140,205 L 5,205 C 2.761423749153968,205 0,202.23857625084602 0,200 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,200 C 145,202.23857625084602 142.23857625084602,205 140,205 L 5,205 C 2.761423749153968,205 0,202.23857625084602 0,200 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="66.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">FIs Reallocated Capital</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1935, 165)">
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,290 C 175,292.23857625084605 172.23857625084602,295 170,295 L 5,295 C 2.761423749153968,295 0,292.23857625084605 0,290 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,290 C 175,292.23857625084605 172.23857625084602,295 170,295 L 5,295 C 2.761423749153968,295 0,292.23857625084605 0,290 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="3.6" object-name="FIs Disclose Progress and Support Aligned Policy" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="81.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">FIs Disclose Progress &amp;</text>
+                        <text x="81.23857625084602" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Support Aligned Policy</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 195, 615)">
+                <path d="M 5,0 L 230,0 C 232.23857625084602,0 235,2.761423749153968 235,5 L 235,140 C 235,142.23857625084602 232.23857625084602,145 230,145 L 5,145 C 2.761423749153968,145 0,142.23857625084602 0,140 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 230,0 C 232.23857625084602,0 235,2.761423749153968 235,5 L 235,140 C 235,142.23857625084602 232.23857625084602,145 230,145 L 5,145 C 2.761423749153968,145 0,142.23857625084602 0,140 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="1.1" object-name="Regulatory Change" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="111.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Regulatory Change</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 195, 780)">
+                <path d="M 5,0 L 230,0 C 232.23857625084602,0 235,2.761423749153968 235,5 L 235,110 C 235,112.23857625084604 232.23857625084602,115 230,115 L 5,115 C 2.761423749153968,115 0,112.23857625084604 0,110 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 230,0 C 232.23857625084602,0 235,2.761423749153968 235,5 L 235,110 C 235,112.23857625084604 232.23857625084602,115 230,115 L 5,115 C 2.761423749153968,115 0,112.23857625084604 0,110 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="1.2" object-name="Financial Case" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="111.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Financial Case</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 480, 735)">
+                <path d="M 5,0 L 230,0 C 232.23857625084602,0 235,2.761423749153968 235,5 L 235,200 C 235,202.23857625084602 232.23857625084602,205 230,205 L 5,205 C 2.761423749153968,205 0,202.23857625084602 0,200 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 230,0 C 232.23857625084602,0 235,2.761423749153968 235,5 L 235,200 C 235,202.23857625084602 232.23857625084602,205 230,205 L 5,205 C 2.761423749153968,205 0,202.23857625084602 0,200 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="1.4" object-name="Cases Reach Target Audiences" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="111.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Cases Reach Target
+                        Audiences</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 195, 915)">
+                <path d="M 5,0 L 230,0 C 232.23857625084602,0 235,2.761423749153968 235,5 L 235,110 C 235,112.23857625084604 232.23857625084602,115 230,115 L 5,115 C 2.761423749153968,115 0,112.23857625084604 0,110 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 230,0 C 232.23857625084602,0 235,2.761423749153968 235,5 L 235,110 C 235,112.23857625084604 232.23857625084602,115 230,115 L 5,115 C 2.761423749153968,115 0,112.23857625084604 0,110 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="1.3" object-name="Reputational Case" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="111.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Reputational Case</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 795, 615)">
+                <path d="M 5,0 L 350,0 C 352.23857625084605,0 355,2.761423749153968 355,5 L 355,410 C 355,412.23857625084605 352.23857625084605,415 350,415 L 5,415 C 2.761423749153968,415 0,412.23857625084605 0,410 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 350,0 C 352.23857625084605,0 355,2.761423749153968 355,5 L 355,410 C 355,412.23857625084605 352.23857625084605,415 350,415 L 5,415 C 2.761423749153968,415 0,412.23857625084605 0,410 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.1" object-name="Sustainability Integration" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="171.23857625084605" y="12.8111572265625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Sustainability
+                        Integration</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 810, 645)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,230 C 145,232.23857625084602 142.23857625084602,235 140,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,230 C 145,232.23857625084602 142.23857625084602,235 140,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.1.1" object-name="Internal Incentive Structures Align with Sustainability" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Internal Incentive</text>
+                        <text x="66.23857625084602" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Structures Align w/</text>
+                        <text x="66.23857625084602" y="37.4537109375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Sustainability</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 990, 690)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,290 C 145,292.23857625084605 142.23857625084602,295 140,295 L 5,295 C 2.761423749153968,295 0,292.23857625084605 0,290 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,290 C 145,292.23857625084605 142.23857625084602,295 140,295 L 5,295 C 2.761423749153968,295 0,292.23857625084605 0,290 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.1.3" object-name="Companies Change Practices and Integrate Sustainability" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Companies Change</text>
+                        <text x="66.23857625084602" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Practices &amp; Integrate</text>
+                        <text x="66.23857625084602" y="37.4537109375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Sustainability</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 810, 900)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,110 C 145,112.23857625084604 142.23857625084602,115 140,115 L 5,115 C 2.761423749153968,115 0,112.23857625084604 0,110 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,110 C 145,112.23857625084604 142.23857625084602,115 140,115 L 5,115 C 2.761423749153968,115 0,112.23857625084604 0,110 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.1.2" object-name="Companies Equipped to Manage Risks" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Companies Equipped to</text>
+                        <text x="66.23857625084602" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Manage Risk</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1185, 615)">
+                <path d="M 5,0 L 350,0 C 352.23857625084605,0 355,2.761423749153968 355,5 L 355,410 C 355,412.23857625084605 352.23857625084605,415 350,415 L 5,415 C 2.761423749153968,415 0,412.23857625084605 0,410 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 350,0 C 352.23857625084605,0 355,2.761423749153968 355,5 L 355,410 C 355,412.23857625084605 352.23857625084605,415 350,415 L 5,415 C 2.761423749153968,415 0,412.23857625084605 0,410 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.3" object-name="Demand Side" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="171.23857625084605" y="12.8111572265625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Demand Side</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1200, 735)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,230 C 145,232.23857625084602 142.23857625084602,235 140,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,230 C 145,232.23857625084602 142.23857625084602,235 140,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.3.2" object-name="Companies Make T, L, S Commitments" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Companies Make T, L, S</text>
+                        <text x="66.23857625084602" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Commitments</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1380, 720)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,260 C 145,262.23857625084605 142.23857625084602,265 140,265 L 5,265 C 2.761423749153968,265 0,262.23857625084605 0,260 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,260 C 145,262.23857625084605 142.23857625084602,265 140,265 L 5,265 C 2.761423749153968,265 0,262.23857625084605 0,260 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.3.3" object-name="Companies Implement Commitments" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Companies Implement</text>
+                        <text x="66.23857625084602" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Commitments</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1575, 615)">
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,410 C 175,412.23857625084605 172.23857625084602,415 170,415 L 5,415 C 2.761423749153968,415 0,412.23857625084605 0,410 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,410 C 175,412.23857625084605 172.23857625084602,415 170,415 L 5,415 C 2.761423749153968,415 0,412.23857625084605 0,410 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.4" object-name="Mid Supply Chain / Input Providers" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="81.23857625084602" y="12.8111572265625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Mid Supply-Chain /</text>
+                        <text x="81.23857625084602" y="29.8927001953125" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Input
+                            Providers</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1785, 615)">
+                <path d="M 5,0 L 350,0 C 352.23857625084605,0 355,2.761423749153968 355,5 L 355,410 C 355,412.23857625084605 352.23857625084605,415 350,415 L 5,415 C 2.761423749153968,415 0,412.23857625084605 0,410 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 350,0 C 352.23857625084605,0 355,2.761423749153968 355,5 L 355,410 C 355,412.23857625084605 352.23857625084605,415 350,415 L 5,415 C 2.761423749153968,415 0,412.23857625084605 0,410 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.5" object-name="Supply Side" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="171.23857625084605" y="12.8111572265625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Supply Side</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1800, 705)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,230 C 145,232.23857625084602 142.23857625084602,235 140,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,230 C 145,232.23857625084602 142.23857625084602,235 140,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.5.1" object-name="Incentives for Sustainable Practices" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Incentives for</text>
+                        <text x="66.23857625084602" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Sustainable Practices</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1980, 645)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,170 C 145,172.23857625084602 142.23857625084602,175 140,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,170 C 145,172.23857625084602 142.23857625084602,175 140,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.5.2.1" object-name="Improved Fisheries Management" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Improved Fisheries</text>
+                        <text x="66.23857625084602" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Management</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1980, 840)">
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,170 C 145,172.23857625084602 142.23857625084602,175 140,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 140,0 C 142.23857625084602,0 145,2.761423749153968 145,5 L 145,170 C 145,172.23857625084602 142.23857625084602,175 140,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="4.5.2.2" object-name="Improved Farm Management" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="66.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Improved Farm</text>
+                        <text x="66.23857625084602" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Management</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 900, 1155)">
+                <path d="M 5,0 L 500,0 C 502.23857625084605,0 505,2.761423749153968 505,5 L 505,230 C 505,232.23857625084602 502.23857625084605,235 500,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 500,0 C 502.23857625084605,0 505,2.761423749153968 505,5 L 505,230 C 505,232.23857625084602 502.23857625084605,235 500,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="2.1" object-name="Policy Environment" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="246.23857625084605" y="12.8111572265625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Policy Environment</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1425, 1155)">
+                <path d="M 5,0 L 590,0 C 592.238576250846,0 595,2.761423749153968 595,5 L 595,230 C 595,232.23857625084602 592.238576250846,235 590,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 590,0 C 592.238576250846,0 595,2.761423749153968 595,5 L 595,230 C 595,232.23857625084602 592.238576250846,235 590,235 L 5,235 C 2.761423749153968,235 0,232.23857625084602 0,230 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="2.2" object-name="Accountability / Transparency / Disclosure Framework" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="291.238576250846" y="12.8111572265625" style="font: normal bold 15px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Accountability / Transparency
+                        / Disclosure Framework</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1440, 1185)">
+                <path d="M 5,0 L 260,0 C 262.23857625084605,0 265,2.761423749153968 265,5 L 265,170 C 265,172.23857625084602 262.23857625084605,175 260,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 260,0 C 262.23857625084605,0 265,2.761423749153968 265,5 L 265,170 C 265,172.23857625084602 262.23857625084605,175 260,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="2.2.1" object-name="Data and Tools" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="126.23857625084605" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Data &amp; Tools</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1725, 1185)">
+                <path d="M 5,0 L 260,0 C 262.23857625084605,0 265,2.761423749153968 265,5 L 265,170 C 265,172.23857625084602 262.23857625084605,175 260,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 260,0 C 262.23857625084605,0 265,2.761423749153968 265,5 L 265,170 C 265,172.23857625084602 262.23857625084605,175 260,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="2.2.2" object-name="Disclosure and Verification" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="126.23857625084605" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Disclosure &amp;
+                        Verification</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1215, 1185)">
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,170 C 175,172.23857625084602 172.23857625084602,175 170,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,170 C 175,172.23857625084602 172.23857625084602,175 170,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="2.1.3" object-name="Production Governance" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="81.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Production Governance</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1020, 1185)">
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,170 C 175,172.23857625084602 172.23857625084602,175 170,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <path d="M 5,0 L 170,0 C 172.23857625084602,0 175,2.761423749153968 175,5 L 175,170 C 175,172.23857625084602 172.23857625084602,175 170,175 L 5,175 C 2.761423749153968,175 0,172.23857625084602 0,170 L 0,5 C 0,2.761423749153968 2.761423749153968,0 5,0 z" fill="none" stroke="#C5C5C5" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" id="2.1.2" object-name="Import Policies" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                <g transform="matrix(1, 0, 0, 1, 5.761423749153968, 5.761423749153968)">
+                    <text x="81.23857625084602" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 2, 0)">Import Policies</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1460, 1055)">
+                <path d="M 0,45 L 0,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,45 L 0,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="#000000" stroke="none" transform="matrix(0, -1, 1, 0, 6, 54.5)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, -1, 1, 0, 6, 54.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, -1, 1, 0, 6, 18.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, -1, 1, 0, 6, 18.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 725, 815)">
+                <path d="M 0,0 L 45,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 45,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 46.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 46.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2329.7360679774997, 867.3680339887499)">
+                <path d="M 0,30.263932022500285 L 60.52786404500057,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,30.263932022500285 L 60.52786404500057,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.8944271909999162, -0.4472135954999574, 0.4472135954999574, 0.8944271909999162, 61.136378539501465, 10.223606797749973)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.8944271909999162, -0.4472135954999574, 0.4472135954999574, 0.8944271909999162, 61.136378539501465, 10.223606797749973)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2329.670607855311, 752.6689187744635)">
+                <path d="M 0,0 L 60.65878428937776,34.66216245107307" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 60.65878428937776,34.66216245107307" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.8682431421244587, 0.49613893835683454, -0.49613893835683454, 0.8682431421244587, 65.26327333474721, 36.97200890654214)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.8682431421244587, 0.49613893835683454, -0.49613893835683454, 0.8682431421244587, 65.26327333474721, 36.97200890654214)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2494.981339062591, 679.8511157062997)">
+                <path d="M 0,30.22352804333707 L 7.5558820108340115,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,30.22352804333707 L 7.5558820108340115,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="#000000" stroke="none" transform="matrix(0.24253562503632511, -0.9701425001453339, 0.9701425001453339, 0.24253562503632511, 6.240697811936827, 38.7683142931191)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.24253562503632511, -0.9701425001453339, 0.9701425001453339, 0.24253562503632511, 6.240697811936827, 38.7683142931191)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.24253562503632511, -0.9701425001453339, 0.9701425001453339, 0.24253562503632511, 11.613759197443912, 17.276068751090037)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.24253562503632511, -0.9701425001453339, 0.9701425001453339, 0.24253562503632511, 11.613759197443912, 17.276068751090037)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 440, 1055)">
+                <path d="M 435.0043140670625,160.5884890627683 L 19.965487463499926,136.17444043902947 Q 0,135 0,115 L 0,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 435.0043140670625,160.5884890627683 L 19.965487463499926,136.17444043902947 Q 0,135 0,115 L 0,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, -1, 1, 0, 6, 18.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, -1, 1, 0, 6, 18.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2563.033008588991, 671.2132034355964)">
+                <path d="M 0,0 L 3.3974575933038977,1.3589830373215364 Q 21.966991411009076,8.78679656440363 21.966991411009076,28.78679656440363 L 21.966991411009076,243.78679656440363 Q 21.966991411009076,263.78679656440363 15.642436090672163,282.7604625254139 L 6.675701546372693,309.6606661583122" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 3.3974575933038977,1.3589830373215364 Q 21.966991411009076,8.78679656440363 21.966991411009076,28.78679656440363 L 21.966991411009076,243.78679656440363 Q 21.966991411009076,263.78679656440363 15.642436090672163,282.7604625254139 L 6.675701546372693,309.6606661583122" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="#000000" stroke="none" transform="matrix(0.9284766908852593, 0.3713906763541037, -0.3713906763541037, 0.9284766908852593, 11.949801050859044, 6.471788574636014)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.9284766908852593, 0.3713906763541037, -0.3713906763541037, 0.9284766908852593, 11.949801050859044, 6.471788574636014)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(-0.3162277660168414, 0.9486832980505127, -0.9486832980505127, -0.3162277660168414, 23.158370749717896, 312.86176918895023)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(-0.3162277660168414, 0.9486832980505127, -0.9486832980505127, -0.3162277660168414, 23.158370749717896, 312.86176918895023)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2465, 950)">
+                <path d="M 32.38340403019674,46.19170201509837 L 13.416407864998746,36.70820393249937 Q 0,30 0,15 L 0,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 32.38340403019674,46.19170201509837 L 13.416407864998746,36.70820393249937 Q 0,30 0,15 L 0,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="#000000" stroke="none" transform="matrix(-0.8944271909999161, -0.4472135954999575, 0.4472135954999575, -0.8944271909999161, 40.14733605269695, 59.54580398134806)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(-0.8944271909999161, -0.4472135954999575, 0.4472135954999575, -0.8944271909999161, 40.14733605269695, 59.54580398134806)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, -1, 1, 0, 6, 18.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, -1, 1, 0, 6, 18.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 890, 170)">
+                <path d="M 0,0 L 0,30" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 0,30" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, 1, -1, 0, 14, 31.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, 1, -1, 0, 14, 31.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 950, 305)">
+                <path d="M 0,0 L 30,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 30,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1100, 305)">
+                <path d="M 0,0 L 30,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 30,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 10.5, 6)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1265.8578643762696, 230)">
+                <path d="M 0,0.7322330470336169 L -13.409902576696823,14.142135623731491 Q 0.7322330470335601,0 20.73223304703356,0 L 45.73223304703356,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 23.409902576696823, 10)" />
+                <path d="M 0,0.7322330470336169 L -13.409902576696823,14.142135623731491 Q 0.7322330470335601,0 20.73223304703356,0 L 45.73223304703356,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 23.409902576696823, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 60.64213562373038, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 60.64213562373038, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1265.85786437627, 365.85786437626797)">
+                <path d="M 0,0 L -13.409902576696368,-13.409902576698357 Q 0.7322330470335601,0.7322330470336738 20.73223304703356,0.7322330470336738 L 45.73223304703356,0.7322330470336738" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 23.409902576696368, 23.409902576698357)" />
+                <path d="M 0,0 L -13.409902576696368,-13.409902576698357 Q 0.7322330470335601,0.7322330470336738 20.73223304703356,0.7322330470336738 L 45.73223304703356,0.7322330470336738" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 23.409902576696368, 23.409902576698357)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 60.64213562372993, 20.14213562373203)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 60.64213562372993, 20.14213562373203)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1280, 305)">
+                <path d="M 0,0 L 45,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 45,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 46.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 46.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1040, 420)">
+                <path d="M 0,0 L 0,-5 Q 0,15 20,15 L 495,15" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 15)" />
+                <path d="M 0,0 L 0,-5 Q 0,15 20,15 L 495,15" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 15)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 496.5, 26)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 496.5, 26)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1460, 515)">
+                <path d="M 0,0 L 0,60" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 0,60" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, 1, -1, 0, 14, 61.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, 1, -1, 0, 14, 61.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1475.7697505292424, 315.25658350974743)">
+                <path d="M 0,0 L -14.101957715883827,-4.700652571961314 Q 0.12829175487377142,0.04276391829125714 15.128291754873771,0.04276391829125714 L 30.12829175487377,0.04276391829125714" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 24.101957715883827, 14.700652571961314)" />
+                <path d="M 0,0 L -14.101957715883827,-4.700652571961314 Q 0.12829175487377142,0.04276391829125714 15.128291754873771,0.04276391829125714 L 30.12829175487377,0.04276391829125714" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 24.101957715883827, 14.700652571961314)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 45.7302494707576, 10.74341649025257)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 45.7302494707576, 10.74341649025257)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1715, 305)">
+                <path d="M 0,0 L 30,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 30,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1895, 305)">
+                <path d="M 0,0 L 30,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 30,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 425, 830)">
+                <path d="M 0,0 L 45,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 45,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 46.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 46.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 425, 680)">
+                <path d="M 0,0 L 0,0 Q 0,0 14.79880146791885,13.453455879926196 L 50.488543565007376,45.89867596818851" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 0,0 Q 0,0 14.79880146791885,13.453455879926196 L 50.488543565007376,45.89867596818851" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.7399400733959438, 0.6726727939963123, -0.6726727939963123, 0.7399400733959438, 56.8897441171271, 47.22119692563609)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.7399400733959438, 0.6726727939963123, -0.6726727939963123, 0.7399400733959438, 56.8897441171271, 47.22119692563609)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 425, 927.7194581120068)">
+                <path d="M 0,37.280541887993195 L 0,37.280541887993195 Q 0,37.280541887993195 15.479145984066406,24.61578608284799 L 45.56510675199172,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,37.280541887993195 L 0,37.280541887993195 Q 0,37.280541887993195 15.479145984066406,24.61578608284799 L 45.56510675199172,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.7739572992033208, -0.633237790257263, 0.633237790257263, 0.7739572992033208, 46.45351854773443, 12.286692020373454)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.7739572992033208, -0.633237790257263, 0.633237790257263, 0.7739572992033208, 46.45351854773443, 12.286692020373454)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 949.8076923076924, 786.1698717948718)">
+                <path d="M 0,0 L 30.38461538461536,12.660256410256352" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 30.38461538461536,12.660256410256352" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.9230769230769236, 0.38461538461538347, -0.38461538461538347, 0.9230769230769236, 34.076923076923045, 15.698717948717901)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.9230769230769236, 0.38461538461538347, -0.38461538461538347, 0.9230769230769236, 34.076923076923045, 15.698717948717901)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 930.3883864861851, 904.2677669529663)">
+                <path d="M 0,30.741942709188265 L -19.56306520304213,34.65455574981502 Q 0.048548310772730474,30.732233047033674 14.190683934503681,16.590097423302723 L 30.780781357806404,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 29.56306520304213, 10)" />
+                <path d="M 0,30.741942709188265 L -19.56306520304213,34.65455574981502 Q 0.048548310772730474,30.732233047033674 14.190683934503681,16.590097423302723 L 30.780781357806404,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 29.56306520304213, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.7071067811865474, -0.7071067811865477, 0.7071067811865477, 0.7071067811865474, 51.50501179601669, 13.181980515339466)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.7071067811865474, -0.7071067811865477, 0.7071067811865477, 0.7071067811865474, 51.50501179601669, 13.181980515339466)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1145, 815)">
+                <path d="M 0,0 L 30,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 30,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1340, 845)">
+                <path d="M 0,0 L 30,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 30,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1655, 800)">
+                <path d="M 0,0 L 0,15" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 0,15" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, 1, -1, 0, 14, 16.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, 1, -1, 0, 14, 16.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1655, 725)">
+                <path d="M 0,0 L 0,15" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 0,15" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, 1, -1, 0, 14, 16.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, 1, -1, 0, 14, 16.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1535, 815)">
+                <path d="M 0,0 L 30,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 30,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1745, 815)">
+                <path d="M 0,0 L 30,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 30,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 31.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1939.7360679774997, 762.3680339887499)">
+                <path d="M 0,15.263932022500285 L 30.52786404500057,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,15.263932022500285 L 30.52786404500057,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.8944271909999162, -0.4472135954999574, 0.4472135954999574, 0.8944271909999162, 31.136378539501457, 10.223606797749973)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.8944271909999162, -0.4472135954999574, 0.4472135954999574, 0.8944271909999162, 31.136378539501457, 10.223606797749973)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2119.993646749577, 715.3566890535412)">
+                <path d="M 0,4.2866218929175375 L 60.012706500846434,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,4.2866218929175375 L 60.012706500846434,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.997458699830735, -0.07124704998790983, 0.07124704998790983, 0.997458699830735, 61.24931935233356, 6.615765125574292)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.997458699830735, -0.07124704998790983, 0.07124704998790983, 0.997458699830735, 61.24931935233356, 6.615765125574292)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2119.993646749577, 925.3566890535412)">
+                <path d="M 0,0 L 60.012706500846434,4.2866218929175375" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 60.012706500846434,4.2866218929175375" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.9974586998307351, 0.07124704998790857, -0.07124704998790857, 0.9974586998307351, 61.81929575223681, 9.691187168697374)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.9974586998307351, 0.07124704998790857, -0.07124704998790857, 0.9974586998307351, 61.81929575223681, 9.691187168697374)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1939.659447252246, 858.5513442304768)">
+                <path d="M 0,0 L 30.681105495507836,17.897311539046314" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 30.681105495507836,17.897311539046314" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.8637789008984325, 0.5038710255240878, -0.5038710255240878, 0.8637789008984325, 35.35446893996751, 20.15929221849784)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.8637789008984325, 0.5038710255240878, -0.5038710255240878, 0.8637789008984325, 35.35446893996751, 20.15929221849784)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1295, 1265)">
+                <path d="M 0,0 L 0,15" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 0,15" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, 1, -1, 0, 14, 16.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, 1, -1, 0, 14, 16.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1100, 1265)">
+                <path d="M 0,0 L 0,15" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 0,15" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, 1, -1, 0, 14, 16.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, 1, -1, 0, 14, 16.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 890, 410)">
+                <path d="M 0,0 L 0,25 Q 0,45 20,45 L 300,45 Q 315,45 315,30 L 315,15" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 0,25 Q 0,45 20,45 L 300,45 Q 315,45 315,30 L 315,15" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, -1, 1, 0, 321, 33.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, -1, 1, 0, 321, 33.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1265, 695)">
+                <path d="M 0,0 L 0,30" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 0,30" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, 1, -1, 0, 14, 31.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, 1, -1, 0, 14, 31.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 243.44832164477594, 379.7784264991467)">
+                <path d="M 0,0 L 88.26464703302878,195.44314700170662" fill="none" stroke="#FFCC00" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 88.26464703302878,195.44314700170662" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#FFCC00" stroke="none" transform="matrix(0.41158672242649824, 0.911370599658675, -0.911370599658675, 0.41158672242649824, 98.41164229103823, 196.0501500149019)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#FFCC00" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.41158672242649824, 0.911370599658675, -0.911370599658675, 0.41158672242649824, 98.41164229103823, 196.0501500149019)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2014.9748737341529, 1307.8535533905933)">
+                <path d="M 67.52200394412375,9.64600056344625 L 0,0" fill="none" stroke="#FFCC00" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 67.52200394412375,9.64600056344625 L 0,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#FFCC00" stroke="none" transform="matrix(-0.9899494936611666, -0.14142135623730948, 0.14142135623730948, -0.9899494936611666, 17.84888527117068, 15.161879502661796)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#FFCC00" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(-0.9899494936611666, -0.14142135623730948, 0.14142135623730948, -0.9899494936611666, 17.84888527117068, 15.161879502661796)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 834.6636252328587, 1318.1140523019467)">
+                <path d="M 0,11.539359107874361 L 55.388923717797184,0" fill="none" stroke="#FFCC00" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,11.539359107874361 L 55.388923717797184,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#FFCC00" stroke="none" transform="matrix(0.9789804197376053, -0.20395425411199988, 0.20395425411199988, 0.9789804197376053, 56.25177313357954, 7.817689481001577)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#FFCC00" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.9789804197376053, -0.20395425411199988, 0.20395425411199988, 0.9789804197376053, 56.25177313357954, 7.817689481001577)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1820, 410)">
+                <path d="M 0,30 L 0,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,30 L 0,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0, -1, 1, 0, 6, 18.5)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, -1, 1, 0, 6, 18.5)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 1714.7145788382004, 414.8504936771526)">
+                <path d="M 0,0 L 48.01269388907235,25.1495063228474" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 48.01269388907235,25.1495063228474" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="#000000" stroke="none" transform="matrix(0.8858315352801556, 0.4640069946705573, -0.4640069946705573, 0.8858315352801556, 12.298943746322307, 6.688677356214656)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.8858315352801556, 0.4640069946705573, -0.4640069946705573, 0.8858315352801556, 12.298943746322307, 6.688677356214656)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.8858315352801556, 0.4640069946705573, -0.4640069946705573, 0.8858315352801556, 52.33915381787326, 27.662120727027045)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.8858315352801556, 0.4640069946705573, -0.4640069946705573, 0.8858315352801556, 52.33915381787326, 27.662120727027045)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 110, 290)">
+                <path d="M 765,960 L 20,960 Q 0,960 0,940 L 0,20 Q 0,0 20,0 L 690,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 765,960 L 20,960 Q 0,960 0,940 L 0,20 Q 0,0 20,0 L 690,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 691.5, 6)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 691.5, 6)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 287.2069464896266, 322.1949771159908)">
+                <path d="M 0,25.014440128417675 L 512.7960226325612,0" fill="none" stroke="#FFCC00" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,25.014440128417675 L 512.7960226325612,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#FFCC00" stroke="none" transform="matrix(0.9988123511248966, -0.04872255371340983, 0.04872255371340983, 0.9988123511248966, 514.1112274331459, 6.418892302064398)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#FFCC00" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.9988123511248966, -0.04872255371340983, 0.04872255371340983, 0.9988123511248966, 514.1112274331459, 6.418892302064398)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 440, 348.2344404080938)">
+                <path d="M 0,226.7655595919062 L 0,51.7655595919062 Q 0,31.765559591906197 19.922597000507608,30.007683385979078 L 360.0096753749366,0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 0,226.7655595919062 L 0,51.7655595919062 Q 0,31.765559591906197 19.922597000507608,30.007683385979078 L 360.0096753749366,0" fill="none" stroke="transparent" stroke-width="20" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 10, 10)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="#000000" stroke="none" transform="matrix(0, -1, 1, 0, 6, 236.2655595919062)" />
+                <path d="M 8,0 L 6,4 L 8,8 L 0,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0, -1, 1, 0, 6, 236.2655595919062)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="#000000" stroke="none" transform="matrix(0.996129850025381, -0.08789381029635708, 0.08789381029635708, 0.996129850025381, 361.19099640853545, 6.7625779874175125)" />
+                <path d="M 0,0 L 8,4 L 0,8 L 2,4 z" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(0.996129850025381, -0.08789381029635708, 0.08789381029635708, 0.996129850025381, 361.19099640853545, 6.7625779874175125)" />
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2445, 630)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 72.5,0 C 112.54064436273254,0 145,12.312169379653177 145,27.5 C 145,42.68783062034682 112.54064436273254,55 72.5,55 C 32.459355637267464,55 0,42.68783062034682 0,27.5 C 0,12.312169379653177 32.459355637267464,0 72.5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <path d="M 72.5,0 C 112.54064436273254,0 145,12.312169379653177 145,27.5 C 145,42.68783062034682 112.54064436273254,55 72.5,55 C 32.459355637267464,55 0,42.68783062034682 0,27.5 C 0,12.312169379653177 32.459355637267464,0 72.5,0 z" fill="none" stroke="#E2A066" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="49.5" y="16.0951171875" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 25.5, 10.5)">Social &amp;</text>
+                        <text x="49.5" y="29.7146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 25.5, 10.5)">Economic
+                            Security</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2490, 990)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 72.5,0 C 112.54064436273254,0 145,19.027898132191275 145,42.5 C 145,65.97210186780873 112.54064436273254,85 72.5,85 C 32.459355637267464,85 0,65.97210186780873 0,42.5 C 0,19.027898132191275 32.459355637267464,0 72.5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <path d="M 72.5,0 C 112.54064436273254,0 145,19.027898132191275 145,42.5 C 145,65.97210186780873 112.54064436273254,85 72.5,85 C 32.459355637267464,85 0,65.97210186780873 0,42.5 C 0,19.027898132191275 32.459355637267464,0 72.5,0 z" fill="none" stroke="#B2DFB2" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="42.5" y="22.53671875" style="font: italic normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 32.5, 12.5)">Healthy Marine</text>
+                        <text x="42.5" y="35.82109375" style="font: italic normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 32.5, 12.5)">&amp;
+                            Terrestrial</text>
+                        <text x="42.5" y="49.10546875" style="font: italic normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 32.5, 12.5)">Ecosystems</text>
+                    </g>
+                    <g transform="matrix(1, 0, 0, 1, 0, 70)">
+                        <path d="M 19,19 L 0,19 L 9.5,0 z" fill="#A720FA" stroke="none" transform="matrix(1, 0, 0, 1, 0.5, 0.5)" />
+                        <path d="M 19,19 L 0,19 L 9.5,0 z" fill="none" stroke="#C5C5C5" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 0.5, 0.5)" />
+                        <g transform="matrix(1, 0, 0, 1, 0, 0)" clip-path="url(#CLIP12567)" />
+                    </g>
+                    <g transform="matrix(1, 0, 0, 1, 20, 70)">
+                        <path d="M 54,0 C 83.82337649086286,0 108,4.253294876607461 108,9.5 C 108,14.74670512339254 83.82337649086286,19 54,19 C 24.176623509137148,19 0,14.74670512339254 0,9.5 C 0,4.253294876607461 24.176623509137148,0 54,0 z" fill="#C3EBF3" stroke="none" transform="matrix(1, 0, 0, 1, 0.5, 0.5)" />
+                        <path d="M 54,0 C 83.82337649086286,0 108,4.253294876607461 108,9.5 C 108,14.74670512339254 83.82337649086286,19 54,19 C 24.176623509137148,19 0,14.74670512339254 0,9.5 C 0,4.253294876607461 24.176623509137148,0 54,0 z" fill="none" stroke="#C5C5C5" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 0.5, 0.5)" />
+                        <g transform="matrix(1, 0, 0, 1, 0, 0)" clip-path="url(#CLIP12569)">
+                            <text x="52" y="10.2146484375" style="font: 12px Roboto" text-anchor="middle" fill="black" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 4.5)">3 Goals</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2415, 795)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 57.5,0 C 89.25637311527063,0 115,12.312169379653177 115,27.5 C 115,42.68783062034682 89.25637311527063,55 57.5,55 C 25.74362688472937,55 0,42.68783062034682 0,27.5 C 0,12.312169379653177 25.74362688472937,0 57.5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <path d="M 57.5,0 C 89.25637311527063,0 115,12.312169379653177 115,27.5 C 115,42.68783062034682 89.25637311527063,55 57.5,55 C 25.74362688472937,55 0,42.68783062034682 0,27.5 C 0,12.312169379653177 25.74362688472937,0 57.5,0 z" stroke-dasharray="20,2" stroke-dashoffset="0" fill="none" stroke="#B2DFB2" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="33.5" y="14.0951171875" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 26.5, 12.5)">Industrial</text>
+                        <text x="33.5" y="27.7146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 26.5, 12.5)">Fisheries</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2415, 870)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 57.5,0 C 89.25637311527063,0 115,12.312169379653177 115,27.5 C 115,42.68783062034682 89.25637311527063,55 57.5,55 C 25.74362688472937,55 0,42.68783062034682 0,27.5 C 0,12.312169379653177 25.74362688472937,0 57.5,0 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <path d="M 57.5,0 C 89.25637311527063,0 115,12.312169379653177 115,27.5 C 115,42.68783062034682 89.25637311527063,55 57.5,55 C 25.74362688472937,55 0,42.68783062034682 0,27.5 C 0,12.312169379653177 25.74362688472937,0 57.5,0 z" stroke-dasharray="20,2" stroke-dashoffset="0" fill="none" stroke="#B2DFB2" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)" clip-path="url(#CLIP12561)">
+                        <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                            <text x="33.5" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 26.5, 12.5)">Farm</text>
+                            <text x="33.5" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 26.5, 12.5)">Production</text>
+                            <text x="33.5" y="37.4537109375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 26.5, 12.5)">Units</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2205, 735)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 115,0 L 115,55 L 0,55 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <path d="M 0,0 L 115,0 L 115,55 L 0,55 z" stroke-dasharray="20,2" stroke-dashoffset="0" fill="none" stroke="#BE96FF" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)" clip-path="url(#CLIP12559)">
+                        <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                            <text x="51.5" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">Illegal,</text>
+                            <text x="51.5" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">unregulated &amp;</text>
+                            <text x="51.5" y="37.4537109375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">unreported (IUU)</text>
+                            <text x="51.5" y="51.0732421875" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">fishing reduced</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2205, 660)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 115,0 L 115,55 L 0,55 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <path d="M 0,0 L 115,0 L 115,55 L 0,55 z" stroke-dasharray="20,2" stroke-dashoffset="0" fill="none" stroke="#BE96FF" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="51.5" y="18.0951171875" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">Legal fishing at</text>
+                        <text x="51.5" y="31.7146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">sustainable
+                            levels</text>
+                    </g>
+                    <g transform="matrix(1, 0, 0, 1, 0, 40)">
+                        <path d="M 19,19 L 0,19 L 9.5,0 z" fill="#A720FA" stroke="none" transform="matrix(1, 0, 0, 1, 0.5, 0.5)" />
+                        <path d="M 19,19 L 0,19 L 9.5,0 z" fill="none" stroke="#C5C5C5" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 0.5, 0.5)" />
+                        <g transform="matrix(1, 0, 0, 1, 0, 0)" clip-path="url(#CLIP12563)" />
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2205, 885)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 115,0 L 115,55 L 0,55 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <path d="M 0,0 L 115,0 L 115,55 L 0,55 z" stroke-dasharray="20,2" stroke-dashoffset="0" fill="none" stroke="#BE96FF" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="51.5" y="11.2853515625" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">Farm expansion</text>
+                        <text x="51.5" y="24.9048828125" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">into key
+                            habitat</text>
+                        <text x="51.5" y="38.5244140625" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">mitigated</text>
+                    </g>
+                    <g transform="matrix(1, 0, 0, 1, 0, 40)">
+                        <path d="M 19,19 L 0,19 L 9.5,0 z" fill="#A720FA" stroke="none" transform="matrix(1, 0, 0, 1, 0.5, 0.5)" />
+                        <path d="M 19,19 L 0,19 L 9.5,0 z" fill="none" stroke="#C5C5C5" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 0.5, 0.5)" />
+                        <g transform="matrix(1, 0, 0, 1, 0, 0)" clip-path="url(#CLIP12565)" />
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2205, 960)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 115,0 L 115,55 L 0,55 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <path d="M 0,0 L 115,0 L 115,55 L 0,55 z" stroke-dasharray="20,2" stroke-dashoffset="0" fill="none" stroke="#BE96FF" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="51.5" y="11.2853515625" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">Feed, disease,</text>
+                        <text x="51.5" y="24.9048828125" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">pollution &amp;
+                            other</text>
+                        <text x="51.5" y="38.5244140625" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">impacts mitigated</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 180, 330)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 114.99999999999999,27.5 L 86.25,55 L 28.749999999999996,55 L 0,27.5 L 28.749999999999996,0 L 86.25,0 L 114.99999999999999,27.5 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <path d="M 114.99999999999999,27.5 L 86.25,55 L 28.749999999999996,55 L 0,27.5 L 28.749999999999996,0 L 86.25,0 L 114.99999999999999,27.5 z" fill="none" stroke="#F4DC5B" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                        <text x="35.5" y="16.53671875" style="font: italic normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 24.5, 3.5)">Private</text>
+                        <text x="35.5" y="29.82109375" style="font: italic normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 24.5, 3.5)">Sector</text>
+                        <text x="35.5" y="43.10546875" style="font: italic normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 24.5, 3.5)">Leadership</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 2085, 1305)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 114.99999999999999,27.5 L 86.25,55 L 28.749999999999996,55 L 0,27.5 L 28.749999999999996,0 L 86.25,0 L 114.99999999999999,27.5 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <path d="M 114.99999999999999,27.5 L 86.25,55 L 28.749999999999996,55 L 0,27.5 L 28.749999999999996,0 L 86.25,0 L 114.99999999999999,27.5 z" fill="none" stroke="#F4DC5B" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <text x="35.5" y="29.821093750000003" style="font: italic normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 24.5, 3.5)">Transparency</text>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 735, 1320)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 114.99999999999999,27.5 L 86.25,55 L 28.749999999999996,55 L 0,27.5 L 28.749999999999996,0 L 86.25,0 L 114.99999999999999,27.5 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <path d="M 114.99999999999999,27.5 L 86.25,55 L 28.749999999999996,55 L 0,27.5 L 28.749999999999996,0 L 86.25,0 L 114.99999999999999,27.5 z" fill="none" stroke="#F4DC5B" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" />
+                    <text x="35.5" y="29.821093750000003" style="font: italic normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 24.5, 3.5)">Policy</text>
+                </g>
+            </g>
+            
+        </g>
+    </g>
+
+    <!-- LAYER 2: 
+        - Repeated the first two <g transform ..> lines without the id="" class="area excluded" title=""
+        - Retained only the paths with fill to make the element filterable
+        -->
+    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g transform="matrix(1, 0, 0, 1, -109, -59)">
+
+            <g transform="matrix(1, 0, 0, 1, 495, 765)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 85,0 L 85,55 L 0,55 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" id="moore-fdn-amesystemtest-2020-00011:727506b9-f2e9-49ef-9a97-1cfe13562e03" data-identifier="1.4.1"/>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 600, 765)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 85,0 L 85,55 L 0,55 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" id="moore-fdn-amesystemtest-2020-00011:abacbbca-284b-44a3-8d28-352b88dba82d" data-identifier="1.4.3"/>                    
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 495, 840)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 85,0 L 85,85 L 0,85 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" id="moore-fdn-amesystemtest-2020-00011:20877e07-812d-481c-bae7-1397386bb268" data-identifier="1.4.2"/>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 600, 840)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 85,0 L 85,85 L 0,85 z" fill="#FFFFFF" stroke="none" transform="matrix(1, 0, 0, 1, 2.5, 2.5)" id="moore-fdn-amesystemtest-2020-00011:0b578b60-24c5-49bc-8267-9e1d6548259b" data-identifier="1.4.4"/>
+                </g>
+            </g>
+
+        </g>
+    </g>
+
+
+    <!-- LAYER 3:
+        - Included id="" class="area excluded" title="" in the first <g tranform line ...> to disable the empty area tooltip
+	    - Kept all the remaining elements (blue borders, texts, triangles) to disable the tooltip
+	    -->
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" id="" class="area excluded" title="">
+        <g transform="matrix(1, 0, 0, 1, -109, -59)">
+
+            <g transform="matrix(1, 0, 0, 1, 495, 765)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 85,0 L 85,55 L 0,55 z" stroke-dasharray="20,2" stroke-dashoffset="0" fill="none" stroke="#9AD0E7" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)"/>
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)" clip-path="url(#CLIP10976)">
+                        <text x="36.5" y="10.2146484375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">Case for</text>
+                        <text x="36.5" y="23.834179687499997" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">sustainability</text>
+                        <text x="36.5" y="37.4537109375" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">demonstrate</text>
+                        <text x="36.5" y="51.0732421875" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">d</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 600, 765)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 85,0 L 85,55 L 0,55 z" stroke-dasharray="20,2" stroke-dashoffset="0" fill="none" stroke="#9AD0E7" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)"/>
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)" id="moore-fdn-amesystemtest-2020-00011:abacbbca-284b-44a3-8d28-352b88dba82d" data-identifier="1.4.3">
+                        <text x="36.5" y="11.2853515625" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">Advocating</text>
+                        <text x="36.5" y="24.9048828125" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">for policy</text>
+                        <text x="36.5" y="38.5244140625" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">reform</text>
+                    </g>
+                    <g transform="matrix(1, 0, 0, 1, 0, 40)">
+                        <path d="M 19,19 L 0,19 L 9.5,0 z" fill="#A720FA" stroke="none" transform="matrix(1, 0, 0, 1, 0.5, 0.5)"/>
+                        <path d="M 19,19 L 0,19 L 9.5,0 z" fill="none" stroke="#C5C5C5" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 0.5, 0.5)"/>
+                        <g transform="matrix(1, 0, 0, 1, 0, 0)" clip-path="url(#CLIP10974)">
+                            <text x="4.5" y="10.2146484375" style="font: 12px Roboto" text-anchor="middle" fill="black" stroke="none" transform="matrix(1, 0, 0, 1, 5.5, 8.5)">+</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 495, 840)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 85,0 L 85,85 L 0,85 z" stroke-dasharray="20,2" stroke-dashoffset="0" fill="none" stroke="#9AD0E7" stroke-width="5" stroke-linecap="butt"   stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)"/>
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)" id="moore-fdn-amesystemtest-2020-00011:20877e07-812d-481c-bae7-1397386bb268" data-identifier="1.4.2">
+                        <text x="36.5" y="12.6658203125" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">Cases</text>
+                        <text x="36.5" y="26.2853515625" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">packaged &amp;</text>
+                        <text x="36.5" y="39.904882812500006" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">disseminated</text>
+                        <text x="36.5" y="53.5244140625" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">to target</text>
+                        <text x="36.5" y="67.14394531250001" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">audiences</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, 600, 840)">
+                <g transform="matrix(1, 0, 0, 1, 0, 0)">
+                    <path d="M 0,0 L 85,0 L 85,85 L 0,85 z" stroke-dasharray="20,2" stroke-dashoffset="0" fill="none" stroke="#9AD0E7" stroke-width="5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" transform="matrix(1, 0, 0, 1, 2.5, 2.5)"/>
+                    <g transform="matrix(1, 0, 0, 1, 0, 0)" id="moore-fdn-amesystemtest-2020-00011:0b578b60-24c5-49bc-8267-9e1d6548259b" data-identifier="1.4.4">
+                        <text x="36.5" y="26.2853515625" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">Financial</text>
+                        <text x="36.5" y="39.904882812500006" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">market</text>
+                        <text x="36.5" y="53.5244140625" style="font: normal normal 12px &quot;Roboto&quot;" text-anchor="middle" fill="#000000" stroke="none" transform="matrix(1, 0, 0, 1, 8.5, 8.5)">pressure</text>
+                    </g>
+                </g>
+            </g>
+
+        </g>
+    </g>
+
+</svg>
