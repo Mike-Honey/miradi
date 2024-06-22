@@ -13,7 +13,7 @@ Here's a sample Power BI report, using the data from the **Miradi Islands Seasca
 This article in the Miradi Help Centre describes their API and the Power BI template, and provides a link to get started.  
 [Miradi API](https://help.miradishare.org/hc/en-us/articles/7651985079963-Miradi-API)
 
-The Power BI template integrates and models the key data from Miradi, and presents a set of interactive pages to start exploring and analyzing. The June 2024 update includes:
+The [Power BI template](https://github.com/Mike-Honey/miradi/raw/master/Miradi%20Program%20Dashboard%20-%20Miradi%20Islands%20Seascape%20(Example%20Program).pbix) integrates and models the key data from Miradi, and presents a set of interactive pages to start exploring and analyzing. The June 2024 update includes:
 - replacing the MapBox maps with the IconMap Custom Visual. Integration via Power Queries with embedded Python scripts - automates the extraction of shapes from any Miradi program
 - Program Overview page: map now coloured by Overall Viability Status 
 - Threats page: map added to show Threat Footprints
