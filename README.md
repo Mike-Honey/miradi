@@ -5,6 +5,9 @@ I've been working with the technical team behind Miradi to develop a Power BI re
 
 Here's a sample Power BI report, using the data from the **Miradi Islands Seascape (Example Program)**:
 
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiZDg4YzgyNzEtYzI2MC00NDM4LWEwM2QtYTA1MjI2NTczMTg5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+
+[![Click to view and interact with the report](https://github.com/Mike-Honey/miradi/raw/main/Miradi Program Dashboard - Miradi Islands Seascape (Example Program).png)](https://app.powerbi.com/view?r=eyJrIjoiZDg4YzgyNzEtYzI2MC00NDM4LWEwM2QtYTA1MjI2NTczMTg5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 
 This article in the Miradi Help Centre describes their API and the Power BI template, and provides a link to get started.  
@@ -34,6 +37,6 @@ Within each sub-folder, Results Chain diagrams should be named [Results Chain ID
 
 # Spatial
 
-This is a method to extract the spatial data stored in Miradi for Projects and Threats, and output each in a geojson file for integration with MapBox or similar. 
+This is a method to extract the spatial data stored in Miradi for Projects and Threats, and output each in a geojson file for integration with MapBox or similar. This method is no longer required, if you are happy with the integrated IconMap custom visuals.
 
 The instructions are provided at the top of the Python script.  Power BI Desktop is also required. Sample data files from the Miradi sample program are provided, also in the Spatial sub-folder.
