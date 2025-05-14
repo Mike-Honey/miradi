@@ -27,6 +27,16 @@ While developing this template, I've been grateful for the help, support and gui
 
 The template has already been deployed at several organisations, and I'm keen to see it widely used. Please feel free to contact me if you are interested or have any questions.
 
+## python scripts
+
+Python scripts are embedded in the Power BI queries. These require [python 3](https://www.python.org/downloads/) with the following libraries: pandas, bs4, geopandas, json, topojson.  The Power BI Desktop options must be configured to select your python home folder.
+
+Python is required to translate the spatial shapes from geojson to WKT, required for the IconMap custom visual. Python scripts calling the bs4 library have replaced the embedded Power BI M queries - they are more effective and far fewer lines of code.
+
+Scheduled refresh scenarios with the Power BI web service and python require the [Power BI Gateway](https://www.microsoft.com/en-us/power-platform/products/power-bi/gateway) component in Personal Mode.
+
+For ease of review and testing, the python scripts used are provided as .py files, with .csv files for test input.
+
 ## Results Chain Diagrams
 
 Examples (from the Miradi sample projects) of diagrams exported from Miradi for access by Power BI custom visuals.  You could clone this project and upload your own results chain diagrams following the naming standard, then point the Power BI template for Miradi at your clone to view your own diagrams.
@@ -40,6 +50,12 @@ Within each sub-folder, Results Chain diagrams should be named [Results Chain ID
 This is a method to extract the spatial data stored in Miradi for Projects and Threats, and output each in a geojson file for integration with MapBox or similar. This method is no longer required, if you are happy with the integrated IconMap custom visuals.
 
 The instructions are provided at the top of the Python script.  Power BI Desktop is also required. Sample data files from the Miradi sample program are provided, also in the Spatial sub-folder.
+
+## 2025-05 release
+
+This update extends the python scripts to include calls to the bs4 library to strip HTML tags.  These replace embedded Power BI M functions, and resolve some bugs as well as requiring far fewer lines of code.
+
+There were also many performance improvements made in measures, as well as new measures for % Complete and Progress Status.
 
 ## 🤝 Support
 
