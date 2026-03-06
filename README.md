@@ -13,13 +13,7 @@ Here's a sample Power BI report, using the data from the **Miradi Islands Seasca
 This article in the Miradi Help Centre describes their API and the Power BI template, and provides a link to get started.  
 [Miradi API](https://help.miradishare.org/hc/en-us/articles/7651985079963-Miradi-API)
 
-The [Power BI template](https://github.com/Mike-Honey/miradi/raw/master/Miradi%20Program%20Dashboard%20-%20Miradi%20Islands%20Seascape%20(Example%20Program).pbix) integrates and models the key data from Miradi, and presents a set of interactive pages to start exploring and analyzing. The June 2024 update includes:
-- replacing the MapBox maps with the IconMap Custom Visual. Integration via Power Queries with embedded Python scripts - automates the extraction of shapes from any Miradi program
-- Program Overview page: map now coloured by Overall Viability Status 
-- Threats page: map added to show Threat Footprints
-- Threat tooltips are now more informative
-- Indicators .. Taxonomies tables added to the semantic model
-- HTML Content custom visual was replaced with the HTML Content 
+The [Power BI template](https://github.com/Mike-Honey/miradi/raw/master/Miradi%20Program%20Dashboard%20-%20Miradi%20Islands%20Seascape%20(Example%20Program).pbix) integrates and models the key data from Miradi, and presents a set of interactive pages to start exploring and analyzing. 
 
 [Power BI](https://www.microsoft.com/en-au/power-platform/products/power-bi/) provides a great platform to extend the template - to build alternative visuals or page layouts, or to integrate data from other sources. Power BI can automate the chores of keeping your report up-to-date and distributing it to the right audience.
 
@@ -35,7 +29,7 @@ Python is required to translate the spatial shapes from geojson to WKT, required
 
 Scheduled refresh scenarios with the Power BI web service and python require the [Power BI Gateway](https://www.microsoft.com/en-us/power-platform/products/power-bi/gateway) component in Personal Mode.
 
-For ease of review and testing, the python scripts used are provided as .py files, with .csv files for test input.
+For ease of review and testing, the python scripts used are provided as .py files, with .csv files for test input. You can update the .csv files to debug with your data by navigating in the Power Query Editor to the step before the python script, and then using the Copy Entire Table option (from the row/column intersection button at the top-left corner of the results grid).  Then simple paste into the .csv file using a text editor.
 
 ## Results Chain Diagrams
 
@@ -56,6 +50,16 @@ The instructions are provided at the top of the Python script.  Power BI Desktop
 This update extends the python scripts to include calls to the bs4 library to strip HTML tags.  These replace embedded Power BI M functions, and resolve some bugs as well as requiring far fewer lines of code.
 
 There were also many performance improvements made in measures, as well as new measures for % Complete and Progress Status.
+
+## 2024-06 release
+
+The June 2024 update includes:
+- replacing the MapBox maps with the IconMap Custom Visual. Integration via Power Queries with embedded Python scripts - automates the extraction of shapes from any Miradi program
+- Program Overview page: map now coloured by Overall Viability Status 
+- Threats page: map added to show Threat Footprints
+- Threat tooltips are now more informative
+- Indicators .. Taxonomies tables added to the semantic model
+- HTML Content custom visual was replaced with the certified HTML Content (lite) custom visual
 
 ## 🤝 Support
 
