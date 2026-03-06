@@ -45,6 +45,8 @@ This is a method to extract the spatial data stored in Miradi for Projects and T
 
 The instructions are provided at the top of the Python script.  Power BI Desktop is also required. Sample data files from the Miradi sample program are provided, also in the Spatial sub-folder.
 
+# Releases
+
 ## 2025-05 release
 
 This update extends the python scripts to include calls to the bs4 library to strip HTML tags.  These replace embedded Power BI M functions, and resolve some bugs as well as requiring far fewer lines of code.
