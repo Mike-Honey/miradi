@@ -17,7 +17,7 @@ The [Power BI template](https://github.com/Mike-Honey/miradi/raw/master/Miradi%2
 
 [Power BI](https://www.microsoft.com/en-au/power-platform/products/power-bi/) provides a great platform to extend the template - to build alternative visuals or page layouts, or to integrate data from other sources. Power BI can automate the chores of keeping your report up-to-date and distributing it to the right audience.
 
-While developing this template, I've been grateful for the help, support and guidance from teams at [Foundations of Success](https://www.linkedin.com/company/foundations-of-success/), [ESA Sitka](https://www.linkedin.com/company/sitka-technology-group), [Bush Heritage Australia](https://www.linkedin.com/company/bush-heritage-australia), [Conservation Management](https://www.linkedin.com/company/bush-heritage-australia) and the [Gordon and Betty Moore Foundation](https://www.linkedin.com/company/moore-foundation).
+While developing this template, I've been grateful for the help, support and guidance from teams at [Foundations of Success](https://fosonline.org/), [Bush Heritage Australia](https://www.bushheritage.org.au), [Our Common Place (formerly Conservation Management)](https://ourcommonplace.org.au/) and the [Gordon and Betty Moore Foundation](https://moore.org).
 
 The template has already been deployed at several organisations, and I'm keen to see it widely used. Please feel free to contact me if you are interested or have any questions.
 
