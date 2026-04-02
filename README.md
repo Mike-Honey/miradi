@@ -1,4 +1,4 @@
-# Miradi
+# Program Management Dashboard for Miradi 
 [Miradi](https://www.miradishare.org/) is project management software designed for conservation practitioners. It helps teams practice evidence-based conservation for projects or programs, while implementing the Open Standards for the Practice of Conservation.
 
 I've been working with the technical team behind Miradi to develop a Power BI report template, which smoothly integrates with the Miradi API to jump-start analysis on any Miradi project or program.
