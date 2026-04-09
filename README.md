@@ -9,7 +9,7 @@ Here's a sample Power BI report, using the data from the **Miradi Islands Seasca
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/miradi/blob/master/Miradi%20Program%20Dashboard%20-%20Miradi%20Islands%20Seascape%20(Example%20Program).png?raw=true)](https://app.powerbi.com/view?r=eyJrIjoiZDg4YzgyNzEtYzI2MC00NDM4LWEwM2QtYTA1MjI2NTczMTg5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
-This [portfolio page](https://www.mangasolutions.com/conservation-analytics) gives an introduction to this project and explains some of the intended uses.
+This [portfolio page](https://www.mangasolutions.com/conservation-analytics) on the Manga Solutions website gives an introduction to this project and explains some of the intended uses.
 
 This article in the Miradi Help Centre describes their API and the Power BI template, and provides a link to get started.  
 [Miradi API](https://help.miradishare.org/hc/en-us/articles/7651985079963-Miradi-API)
