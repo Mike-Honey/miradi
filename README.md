@@ -14,7 +14,7 @@ This [portfolio page](https://www.mangasolutions.com/conservation-analytics) giv
 This article in the Miradi Help Centre describes their API and the Power BI template, and provides a link to get started.  
 [Miradi API](https://help.miradishare.org/hc/en-us/articles/7651985079963-Miradi-API)
 
-The [Power BI template](https://github.com/Mike-Honey/miradi/raw/master/Miradi%20Program%20Dashboard%20-%20Miradi%20Islands%20Seascape%20(Example%20Program).pbix) integrates and models the key data from Miradi, and presents a set of interactive pages to start exploring and analyzing. 
+The [Power BI template](https://github.com/Mike-Honey/miradi/raw/master/Miradi%20Program%20Dashboard%20-%20Miradi%20Islands%20Seascape%20(Example%20Program).pbix) integrates and models the key data from Miradi, and presents a set of interactive pages to start exploring and analyzing. Note the sample report filters the Miradi projects shown on all pages, using the Project Access field. You can remove or edit that filter to suit your requirements, using Power BI.
 
 [Power BI](https://www.microsoft.com/en-au/power-platform/products/power-bi/) provides a great platform to extend the template - to build alternative visuals or page layouts, or to integrate data from other sources. Power BI can automate the chores of keeping your report up-to-date and distributing it to the right audience.
 
