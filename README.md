@@ -9,6 +9,7 @@ Here's a sample Power BI report, using the data from the **Miradi Islands Seasca
 
 [![Click to view and interact with the report](https://github.com/Mike-Honey/miradi/blob/master/Miradi%20Program%20Dashboard%20-%20Miradi%20Islands%20Seascape%20(Example%20Program).png?raw=true)](https://app.powerbi.com/view?r=eyJrIjoiZDg4YzgyNzEtYzI2MC00NDM4LWEwM2QtYTA1MjI2NTczMTg5IiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
+This [portfolio page](https://www.mangasolutions.com/conservation-analytics) gives an introduction to this project and explains some of the intended uses.
 
 This article in the Miradi Help Centre describes their API and the Power BI template, and provides a link to get started.  
 [Miradi API](https://help.miradishare.org/hc/en-us/articles/7651985079963-Miradi-API)
@@ -25,11 +26,11 @@ The template has already been deployed at several organisations, and I'm keen to
 
 Python scripts are embedded in the Power BI queries. These require [python 3](https://www.python.org/downloads/) with the following libraries: pandas, bs4, geopandas, json, topojson.  The Power BI Desktop options must be configured to select your python home folder.
 
-Python is required to translate the spatial shapes from geojson to WKT, required for the IconMap custom visual. Python scripts calling the bs4 library have replaced the embedded Power BI M queries - they are more effective and far fewer lines of code.
+Python is required to translate the spatial shapes stored in Miradi for Projects, Threats and Targets from geojson objects to geojson files, required for the Azure Map visual. Python scripts calling the bs4 library are used to clean text fields of HTML tags and special characters.
 
 Scheduled refresh scenarios with the Power BI web service and python require the [Power BI Gateway](https://www.microsoft.com/en-us/power-platform/products/power-bi/gateway) component in Personal Mode.
 
-For ease of review and testing, the python scripts used are provided as .py files, with .csv files for test input. You can update the .csv files to debug with your data by navigating in the Power Query Editor to the step before the python script, and then using the Copy Entire Table option (from the row/column intersection button at the top-left corner of the results grid).  Then simple paste into the .csv file using a text editor.
+For ease of review and testing, the python scripts used are provided as .py files, with .csv files for test input. There are notes in each .py script for updating the test input files using your data.
 
 ## Results Chain Diagrams
 
@@ -39,13 +40,17 @@ Examples (from the Miradi sample projects) of diagrams exported from Miradi for 
 
 Within each sub-folder, Results Chain diagrams should be named [Results Chain ID and Name].png (which is the default names given on export from Miradi Share. Those files can then be referred to by analysis tools e.g. Power BI.
 
-# Spatial
+# GeoJSON folder
 
-This is a method to extract the spatial data stored in Miradi for Projects and Threats, and output each in a geojson file for integration with MapBox or similar. This method is no longer required, if you are happy with the integrated IconMap custom visuals.
+The .geojson files in this folder are updated by python scripts embedded in the Power BI queries, at every data refresh. These convert the spatial data stored in Miradi for Programs, Projects, Threats and Targets and output each in a geojson file formatted for integration with the Azure Maps visuals.
 
-The instructions are provided at the top of the Python script.  Power BI Desktop is also required. Sample data files from the Miradi sample program are provided, also in the Spatial sub-folder.
+Whenever the spatial data changes, you need to use Power BI Desktop to upload the updated .geojson file into each Azure Map visual, using that visual's **Format > Reference layer > Data source > Upload a file** feature. More automated scenarios are possible (using the **Data source: URL** setting for Azure Map visuals), but are outside the current scope of this project.
 
 # Releases
+
+## 2026-04 release
+
+This release replaces the (discontinued) IconMap Custom Visual with Azure Maps, which are now a standard Power BI visual. Python scripts embedded in the Power BI queries produce geojson files in the required format.
 
 ## 2025-05 release
 
