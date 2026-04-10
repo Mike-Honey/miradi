@@ -54,9 +54,10 @@ for idx in dataset_copy.index:
     except:
         do_nothing = ''
 
-features_all_gdf = geopandas.GeoDataFrame(pandas.concat(features_each_gdf_list, ignore_index=True, sort=False))
-features_all_gdf = features_all_gdf.set_crs(crs='epsg:4326', allow_override=True)
-features_all_gdf.to_file(output_file_path, driver='GeoJSON', encoding="utf-8")
+if len(features_each_gdf_list) > 0:
+    features_all_gdf = geopandas.GeoDataFrame(pandas.concat(features_each_gdf_list, ignore_index=True, sort=False))
+    features_all_gdf = features_all_gdf.set_crs(crs='epsg:4326', allow_override=True)
+    features_all_gdf.to_file(output_file_path, driver='GeoJSON', encoding="utf-8")
 
 # test harness for debugging outside Power Query. Delete this section when pasting into Power Query
 
